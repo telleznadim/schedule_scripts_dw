@@ -1,13 +1,15 @@
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PurchaseLines.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PurchaseLines2.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_SalesLines.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_Items.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_Locations.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_SalesOrderHeaders.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_Customers.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_Salespeople.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_ValueEntries.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PostedSalesInvoiceHeaders.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PostedSalesInvoiceLines.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PostedSalesCreditMemoHeaders.bat
-start C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PostedSalesCreditMemoLines.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PurchaseLines.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PurchaseLines2.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_SalesLines.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_ServiceOrderLines.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_Items.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_Locations.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_SalesOrderHeaders.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_Customers.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_Salespeople.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_ValueEntries.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_Vendors.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PostedSalesInvoiceHeaders.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PostedSalesInvoiceLines.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PostedSalesCreditMemoHeaders.bat
+start cmd /c call C:\Users\eviadmin\Documents\Datawarehouse\schedule_scripts\From_BC\batches\TRS\TRS_PostedSalesCreditMemoLines.bat

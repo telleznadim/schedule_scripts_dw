@@ -324,6 +324,7 @@ def main():
             "Brands": "dw_test_brands",
             "PurchaseLines2": "dw_test_purchase_lines_2",
             "SalesLines": "dw_test_sales_lines",
+            "ServiceOrderLines": "dw_test_service_order_lines",
             "ValueEntries": "dw_test_value_entries",
             "PostedSalesInvoiceHeaders": "dw_test_posted_sales_invoice_headers",
             "PostedSalesInvoiceLines": "dw_test_posted_sales_invoice_lines",
@@ -332,7 +333,9 @@ def main():
             "ResourceLedgerEntries": "dw_test_resource_ledger_entries",
             "Salespeople": "dw_test_salespeople",
             "Customers": "dw_test_customers",
-            "SalesOrderHeaders": "dw_test_sales_order_headers"
+            "Vendors": "dw_test_vendors",
+            "SalesOrderHeaders": "dw_test_sales_order_headers",
+            "ItemCategories": "dw_test_item_categories",
         }
         logger.debug(data_to_read[endpoint])
         logger.debug(company_short)
